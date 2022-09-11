@@ -45,9 +45,6 @@
 
 ## Deploy
 You can deploy this bot anywhere.
-<details><summary>Deploy To Railway</summary>
-  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/ixLdfV?referralCode=azL4t4)
-  <a href="https://railway.app/new/template/ixLdfV?referralCode=azL4t4">
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
