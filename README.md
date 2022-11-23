@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/5462133790ce9ae8216fd.jpg" alt="Maya Bot Logo">
 </p>
 <h1 align="center">
-  <b>M̴̴A̴̴Y̴̴A̴ R7Video Bot </b>
+  <b>M̴̴A̴̴Y̴̴A̴ F9Videos Bot </b>
 </h1>
 
 
@@ -99,8 +99,8 @@ python3 bot.py
 • /link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/R7VideoSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/R7Video)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/F9Videos)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/F9Videos)
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
