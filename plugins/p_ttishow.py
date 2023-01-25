@@ -53,7 +53,7 @@ async def save_group(bot, message):
                         await (temp.MELCOW['welcome']).delete()
                     except:
                         pass
-                temp.MELCOW('welcone'): bot.send_video(chat_id=update.message.chat_id, video='https://telegra.ph/file/27476269dfbb326a7c7ae.mp4' caption="  <b>Hey , {u.mention}, Welcome to {message.chat.title}</b> \n\n YOU CAN FIND MOVIES , SERIES , AMIMES , ETC,. \n\n ©JOIN MAIN CHANNEL @F9VIDEOS ❤️")
+                temp.MELCOW['welcome']=await message.reply(f"video='https://telegra.ph/file/27476269dfbb326a7c7ae.mp4' caption='<b>Hey , {u.mention}, Welcome to {message.chat.title}</b> \n\n YOU CAN FIND MOVIES , SERIES , AMIMES , ETC,. \n\n ©JOIN MAIN CHANNEL @F9VIDEOS ❤️'")
 
 
 @Client.on_message(filters.command('leave') & filters.user(ADMINS))
