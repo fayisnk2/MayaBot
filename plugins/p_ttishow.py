@@ -59,7 +59,7 @@ async def save_group(bot, message):
 
                     caption=f'<b>ʜᴇʏ , {u.mention} 👋\n ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ {message.chat.title}</b> <b> \n\n  ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇs , sᴇʀɪᴇs, ᴀɴɪᴍᴇs, ᴇᴛᴄ,</b>'
 
- '<b>\nғʀᴏᴍ ʜᴇʀᴇ , ᴛʏᴘᴇ ʏᴏᴜʀ ʀᴇǫᴜɪʀᴇᴅ ᴍᴏᴠɪᴇs ,ᴡᴇʙsᴇʀɪᴇs ɴᴀᴍᴇ \n\n🎉 𝙅𝙊𝙄𝙉 𝙉𝙊𝙒 <a href=https://t.me/F9Videos>ꜰ9ᴠɪᴅᴇᴏꜱ ❤️'</a> </b>')
+ '<b>\nғʀᴏᴍ ʜᴇʀᴇ , ᴛʏᴘᴇ ʏᴏᴜʀ ʀᴇǫᴜɪʀᴇᴅ ᴍᴏᴠɪᴇs ,ᴡᴇʙsᴇʀɪᴇs ɴᴀᴍᴇ \n\n🎉 𝙅𝙊𝙄𝙉 𝙉𝙊𝙒 <a href=https://t.me/F9Videos>ꜰ9ᴠɪᴅᴇᴏꜱ ❤️</a> </b>')
 
 
 
